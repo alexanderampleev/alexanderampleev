@@ -32,11 +32,14 @@
 ###
 
 <p align="left">Начинающий программист, решил выучить Python, а также KIVY фреймворк для создания кроссплатформенных приложений.</p>
+
 <p - 🔭 I’m currently working on zxczx </p>
 <p - 🌱 I’m currently learning zczxcz </p>
 <p - 🤔 I’m looking for help with zczx </p>
 <p - ⚡ Fun fact: cxzczx </p>
+  
 ###
+
 
 <p align="center">
  <img width="600" src="assets/predator.gif" alt="predator"/>
