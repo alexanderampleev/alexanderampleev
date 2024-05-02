@@ -33,9 +33,9 @@
 
 <p align="left">Начинающий программист, решил выучить Python, а также KIVY фреймворк для создания кроссплатформенных приложений.</p>
 
-- 🔭 I’m currently working on dsadasdas 
-- 🌱 I’m currently learning asdasdas 
-- 🤔 I’m looking for help with asdasdas 
+- 🔭 Сейчас я работаю с Python
+- 🌱 Сейчас я изучаю KivyMD
+- 🤔 Я ищу помощь с Python и KivyMD
 - ⚡ Fun fact: sdasdsa 
 
 
