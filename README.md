@@ -36,7 +36,7 @@
 ###
 
 <p align="center">
- <img width="600" src="assets/**matrix.svg.svg" alt="snake"/>
+ <img width="600" src="assets/matrix.svg.svg" alt="snake"/>
 </p>
 
 ###
