@@ -32,10 +32,10 @@
 ###
 
 <p align="left">Начинающий программист, решил выучить Python, а также KIVY фреймворк для создания кроссплатформенных приложений.</p>
-- 🔭 I’m currently working on zxczx 
-- 🌱 I’m currently learning zczxcz 
-- 🤔 I’m looking for help with zczx 
-- ⚡ Fun fact: cxzczx 
+<p - 🔭 I’m currently working on zxczx </p>
+<p - 🌱 I’m currently learning zczxcz </p>
+<p - 🤔 I’m looking for help with zczx </p>
+<p - ⚡ Fun fact: cxzczx </p>
 ###
 
 <p align="center">
