@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="600" src="assets/predator.gif" alt="predator"/>  />
+  <img width="600" src="assets/gyphy.gif" alt="python"/>  />
 </div>
 
 ###
