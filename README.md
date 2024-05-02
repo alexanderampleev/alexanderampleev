@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="600" src="assets/giphy.gif" alt="python"/>  />
+  <img width="600" src="assets/kot.gif" alt="kot"/>  />
 </div>
 
 ###
