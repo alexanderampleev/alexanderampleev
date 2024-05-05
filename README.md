@@ -29,9 +29,8 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-№№№
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+### 👩‍💻  Обо мне</h3>
 
 ###
 
