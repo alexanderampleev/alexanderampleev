@@ -1,7 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (alexanderampleev)|https://raymond.li)" title="👋 Hi there! I'm (Alexandr(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
-
-![visitors](https://vbr.nathanchung.dev/badge?page_id=alexanderampleev&color=00cf00)
-
 <br clear="both">
 
 <div align="center">
