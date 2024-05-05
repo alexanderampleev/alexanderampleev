@@ -51,9 +51,6 @@
 ###
 
 
-<p align="center">
- <img width="600" src="assets/predator.gif" alt="predator"/>
-</p>
 
 ###
 
@@ -84,7 +81,9 @@
 
 ###
 
-
+<p align="center">
+ <img width="600" src="assets/predator.gif" alt="predator"/>
+</p>
 
 ###
 
