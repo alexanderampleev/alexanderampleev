@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="600" src="assets/kot.gif" alt="kot"/>  />
+  <img width="600" src="assets/android.gif" alt="kot"/>  />
 </div>
 
 ###
