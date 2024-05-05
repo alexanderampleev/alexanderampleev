@@ -37,11 +37,15 @@
 
 <p align="left">Начинающий программист, решил выучить Kotlin.</p>
 
-- 🔭 Сейчас я работаю с Kotlin, Python, Kivy
-- 🌱 Сейчас я изучаю Kotlin, Python, Kivy
-- 🤔 Я ищу помощь с Python и Kotlin, Kivy
-- ⚡ Новичок в программировании
-
+- 🔭 &nbsp; В настоящее время я работаю в Android Studio
+- 🤝 &nbsp; Я ищу помощь с Python и Kotlin, Kivy
+- 🌱 &nbsp; В настоящее время я изучаю Kotlin; 
+- 👨🏻‍💻 &nbsp; Большинство моих проектов доступны на [Github](https://github.com/alexanderampleev?tab=repositories)
+- 🎨 &nbsp; ТОП
+- 💬 &nbsp; Спрашивайте меня обо всем, я буду рад помочь;;
+- 📫 &nbsp; Пишите мне в [Telegram](https://t.me/aablogtg/)
+- 📝 &nbsp; Ознакомьтесь с моим [резюме](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📚 &nbsp; Когда я свободен, я смотрю фильмы и сериалы 
 ###
 
 
