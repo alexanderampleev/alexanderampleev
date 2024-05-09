@@ -39,7 +39,7 @@
 <br/>
 
 - 🔭 &nbsp; В настоящее время я работаю в Android Studio
-- 🤝 &nbsp; Я ищу помощь с Python и Kotlin, Kivy
+- 🤝 &nbsp; Я ищу помощь с Kotlin и  Android Studio
 - 🌱 &nbsp; В настоящее время я изучаю Kotlin; 
 - 👨🏻‍💻 &nbsp; Большинство моих проектов доступны на [Github](https://github.com/alexanderampleev?tab=repositories)
 - 🎨 &nbsp; ТОП
