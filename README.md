@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Приветствую вас!👋 Меня зовут Александр!</h1>
+<h1 align="center">Приветствую вас!👋 Меня зовут Александр Амплеев!</h1>
 
 ###
 
@@ -41,7 +41,7 @@
 - 🔭 &nbsp; В настоящее время я работаю в Android Studio
 - 🤝 &nbsp; Я ищу помощь с Kotlin и  Android Studio
 - 🌱 &nbsp; В настоящее время я изучаю Kotlin; 
-- 👨🏻‍💻 &nbsp; Большинство моих проектов доступны на [Github](https://github.com/alexanderampleev?tab=repositories)
+- 👨🏻‍💻 &nbsp; Большинство моих проектов доступны на [Github](https://github.com/ampleevdev?tab=repositories)
 - 🎨 &nbsp; ТОП
 - 💬 &nbsp; Спрашивайте меня обо всем, я буду рад помочь;;
 - 📫 &nbsp; Пишите мне в [Telegram](https://t.me/aablogtg/)
